@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<main.h>
 /*
  * main - main entry of the program that prints text using _putchar
  *
